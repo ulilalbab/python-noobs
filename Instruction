@@ -1,0 +1,10 @@
+At some point while reading, you may wish to install additional Python packages that are not included in the Anaconda distribution. In general, these can be installed with the following command:
+conda install package_name
+If this does not work, you may also be able to install the package using the pip pack‐
+age management tool:
+pip install package_name
+You can update packages by using the conda update command:
+conda update package_name
+pip also supports upgrades using the --upgrade flag:
+pip install --upgrade package_name
+You will have several opportunities to try out these commands throughout the book.
