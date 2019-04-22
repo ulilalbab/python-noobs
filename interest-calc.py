@@ -5,4 +5,3 @@ years = int(input('Duration (no. of years) ?'))
 total = (amount * pow(1 + (roi/100), years))
 Interest = total - amount
 print('\nInterest = %0.2f' %Interest)
-    
