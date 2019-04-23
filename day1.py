@@ -86,3 +86,4 @@ diameter = 3
 radius = 0.5 * diameter
 area = pi * radius^2
 print(area)
+
