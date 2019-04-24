@@ -59,6 +59,9 @@ isinstance(b, (int, float))
 print(isinstance(b, (int, float)))
 
 # Attributes and Methods
+
+
+
 # Page 35
 
 
